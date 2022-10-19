@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.form{
+  margin: 150px auto;
+  width: 350px;
+}
+.form-field{
+  margin-bottom: 20px;
+  position: relative;
+}
+.css-k4qjio-MuiFormHelperText-root.Mui-error {
+  color: #d32f2f;
+  position: absolute;
+  top: 34px;
+  left: -13px;
+}
+button{
+  background-color: brown;
+  padding: 8px 20px;
+  color: #fff;
+  font-weight: 800;
+  letter-spacing: 1.8px;
+  border: none;
+  border-radius: 5px;
+  transition: .4s;
+}
+.error{
+  color: red;
+  position: absolute;
+  left: 526px;
+  font-size: 13px;
+}
+button:hover{
+  background-color: black;
+}
